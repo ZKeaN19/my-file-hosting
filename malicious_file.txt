@@ -1,5 +1,7 @@
-#For educational purpose
-Congratulations you have successfully to download this malicious.txt
-Here is your code to submit:
+For Educational Purposes
+Congratulations! You have successfully downloaded malicious_file.txt!
 
+Here is your submission code:
 11553
+
+Please make sure to enter this code in the designated submission field to complete the challenge.
